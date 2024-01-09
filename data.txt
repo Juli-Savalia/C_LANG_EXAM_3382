@@ -1,0 +1,6 @@
+Name of Emp 1 :- JULI  
+Designation of Emp 1 :-  MANAGER  
+Name of Emp 2 :-  KANNUPRIYA  
+Designation of Emp 2:-  MANAGER  
+Name of Emp 3 :-  KRISHNA  
+Designation of Emp 3 :- CEO  
